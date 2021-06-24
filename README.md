@@ -1,11 +1,13 @@
+
 ### Hi there 👋
 
 
 ## Some stats
+                                                                                        
 [![trophy](https://github-profile-trophy.vercel.app/?username=petretiandrea&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=petretiandrea&show_icons=true&theme=radical)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&compact=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![codersrank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=petretiandrea&show-avatar=false&badge-min-width=50&branding=false&min-width=300&width=300&style=--badge-rank-font-size:0.5em;badge-technology-font-weight:500;--badge-icon-size:16px;--name-font-weight:200)](https://profile.codersrank.io/user/petretiandrea)
 <!--
 **petretiandrea/petretiandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
